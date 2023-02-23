@@ -1,2 +1,2 @@
 # Praticando
- Apenas praticando
+ Apenas praticando e relembrando como utilizar o Git :)
